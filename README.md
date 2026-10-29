@@ -10,4 +10,4 @@ A scrolling 3D portfolio. As you scroll, a Three.js camera travels across a cork
 
 **Host it:** Settings → Pages → deploy from this branch (or `main` after merging). Locally: `python3 -m http.server` and open http://localhost:8000.
 
-**Live:** https://itsaayush2004.github.io/Board-repo/ (deployed by `.github/workflows/pages.yml` on every push).
+**Live:** https://itsaayush2004.github.io/portfolio-board/ (deployed by `.github/workflows/pages.yml` on every push).
