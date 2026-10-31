@@ -1,6 +1,13 @@
-<p align="center"><img src=".github/banner.svg" alt="Animated banner: project cards drop onto a corkboard, pins go in and a red string links them while the camera pans." width="100%"></p>
+<p align="center"><img src=".github/banner.svg" alt="portfolio-board banner: a corkboard with pinned project cards joined by red string" width="100%"></p>
 
 # Aayush Kumar — Portfolio Board
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Three.js-9B2C2C?style=flat-square" alt="Three.js">
+  <img src="https://img.shields.io/badge/Single_index.html-9B2C2C?style=flat-square" alt="Single index.html">
+  <img src="https://img.shields.io/badge/GitHub_Pages-9B2C2C?style=flat-square" alt="GitHub Pages">
+  <br><a href="https://itsaayush2004.github.io/portfolio-board/"><b>Open it live →</b></a>
+</p>
 
 A scrolling 3D portfolio. As you scroll, a Three.js camera travels across a corkboard where every project is pinned up: real screenshots, sticky notes and red string. The text sits on paper cards in real HTML, so it stays readable, selectable and accessible.
 
